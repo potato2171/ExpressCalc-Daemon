@@ -20,7 +20,7 @@ http://localhost:3000?first=4&condition=multiply&second=4
 
 Example Output:
 
-sum: 16
+{sum: 16}
 
 This could also be used side by side with 
 https://github.com/potato2171/sveltecalc-panel
