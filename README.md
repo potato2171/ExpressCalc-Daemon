@@ -16,7 +16,7 @@ The first and second values have to be numbers, the condition parameter has to b
 
 Example Request:
 
-http://localhost:3000?first=4&condition=*&second=4
+http://localhost:3000?first=4&condition=multiply&second=4
 
 Example Output:
 
